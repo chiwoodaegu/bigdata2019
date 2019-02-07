@@ -13,3 +13,6 @@ if payment: # 조건문이 변수인경우"
 else:
     print("걸어가라")
     
+
+# modify1
+
